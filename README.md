@@ -1,2 +1,2 @@
 # zomatolandingpageclone
-this is my first git repository
+Created a clone of the zomato landing page using HTML, CSS and JavaScript
